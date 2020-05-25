@@ -5,6 +5,7 @@ user-agent,com.saurik.Cydia*,Cydia
 user-agent,xyz.willy.Zebra*,Cydia
 //host-keyword,repo,Cydia
 
+DOMAIN,http://apt.thebigboss.org/repofiles/cydia/,cydia
 DOMAIN,http://akusio.github.io/,Cydia
 DOMAIN,http://apt.modmyi.com/,Cydia
 DOMAIN,http://apt.thebigboss.org/repofiles/cydia/,Cydia
