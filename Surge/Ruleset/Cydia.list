@@ -1,9 +1,9 @@
 //host-keyword,apt,Cydia
-user-agent,Telesphoreo*,Cydia
-user-agent,Cydia*,Cydia
-user-agent,Zebra*,Cydia
-user-agent,com.saurik.Cydia*,Cydia
-user-agent,xyz.willy.Zebra*,Cydia
+//user-agent,Telesphoreo*,Cydia
+//user-agent,Cydia*,Cydia
+//user-agent,Zebra*,Cydia
+//user-agent,com.saurik.Cydia*,Cydia
+//user-agent,xyz.willy.Zebra*,Cydia
 //host-keyword,repo,Cydia
 
 DOMAIN,http://apt.thebigboss.org/repofiles/cydia/,Cydia
