@@ -1,8 +1,8 @@
-user-agent,Telesphoreo*,Cydia
-user-agent,Cydia*,Cydia
-user-agent,Zebra*,Cydia
-user-agent,com.saurik.Cydia*,Cydia
-user-agent,xyz.willy.Zebra*,Cydia
+USER-AGENT,Telesphoreo*,Cydia
+USER-AGENT,Cydia*,Cydia
+USER-AGENT,Zebra*,Cydia
+USER-AGENT,com.saurik.Cydia*,Cydia
+USER-AGENT,xyz.willy.Zebra*,Cydia
 
 DOMAIN-SUFFIX,thebigboss.org,Cydia
 DOMAIN-SUFFIX,akusio.github.io,Cydia
